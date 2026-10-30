@@ -1,0 +1,12 @@
+{
+  "name": "cine-resenas",
+  "version": "1.0.0",
+  "description": "Sitio de reseñas de películas con login (Node.js + SQLite, sin dependencias)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --no-warnings server.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
